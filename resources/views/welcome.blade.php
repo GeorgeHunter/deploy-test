@@ -81,6 +81,7 @@
                 <div class="title m-b-md">
                     Laravel
 			<h2>Things are a changin'</h2>
+			<h3>And they just get better</h3>
                 </div>
 
                 <div class="links">
