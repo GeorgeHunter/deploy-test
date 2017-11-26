@@ -82,6 +82,7 @@
                     Laravel
 			<h2>Things are a changin'</h2>
 			<h3>And they just get better</h3>
+			<p>More features!</p>
                 </div>
 
                 <div class="links">
