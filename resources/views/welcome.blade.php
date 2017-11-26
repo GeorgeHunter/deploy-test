@@ -83,6 +83,7 @@
 			<h2>Things are a changin'</h2>
 			<h3>And they just get better</h3>
 			<p>Changed features! and databases</p>
+			<p>Auto push?</p>
                 </div>
 
                 <div class="links">
